@@ -1,1 +1,3 @@
-# CSC-289
+CSC 289
+
+Adam Connor Rash
